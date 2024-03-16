@@ -95,6 +95,7 @@ Use data to provide insights for restaurant owners.
 10. Brand Awareness:
 Market the platform to attract more users and partners.
 
+
 ## Declaration
 
 We hereby confirm that the project presented herein was conceived, developed, and executed entirely within the scope of the hackathon. We attest that any contributions from external sources have been duly credited and properly acknowledged. We acknowledge that any form of plagiarism or unauthorized use of third-party materials may result in disqualification from the hackathon and forfeiture of any associated prizes or recognitions.
