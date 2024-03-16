@@ -9,4 +9,8 @@ USE CASES:-Families looking for a place to enjoy a delicious meal together.Coupl
 
 CHALLENGES FACED:-Integrating online reservation system with real-time availability updates.Ensuring consistency in food quality and taste across diverse menu items.Balancing traditional recipes with modern dietary preferences and restrictions.
 
-DEMO VIDEO:-
+DEMO VIDEO:- https://youtu.be/t9uCeNnmmpc
+
+RESULTED IMAGES:-![WhatsApp Image 2024-03-17 at 00 41 45_b756bd11](https://github.com/Tharun9905/MyRestroApplication/assets/108275508/2d0a0394-e02b-4ede-87d9-27efd6cf299a),![WhatsApp Image 2024-03-17 at 00 42 42_035cdbe0](https://github.com/Tharun9905/MyRestroApplication/assets/108275508/d07319fc-4238-4081-991e-cf9e6f994c9b),![WhatsApp Image 2024-03-17 at 00 43 33_ced414a1](https://github.com/Tharun9905/MyRestroApplication/assets/108275508/15715b26-19b7-4508-a075-a53df6d8c125)
+
+TECHNOLOGIES USED:-  Frontend: HTML, CSS, JavaScript
