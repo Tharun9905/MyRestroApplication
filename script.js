@@ -104,7 +104,7 @@ window.addEventListener("load", autoSlide);
 const parallaxItems = document.querySelectorAll("[data-parallax-item]");
 
 let x, y;
-
+//for the mouse movement
 window.addEventListener("mousemove", function(event) {
 
     x = (event.clientX / window.innerWidth * 10) - 5;
