@@ -30,10 +30,11 @@ So join us on this culinary adventure. Whether you're a diner in search of your 
 | NARISETTY RAKESH | 99210041477@klu.ac.in |
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="![!\[alt text\](<WhatsApp Image 2024-03-17 at 00.41.46_560a4fc2.jpg>)](<../OneDrive/Desktop/PROJECT_IMAGES/WhatsApp Image 2024-03-17 at 00.41.46_8ded8384.jpg>)" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="![!\[alt text\](<WhatsApp Image 2024-03-17 at 00.42.43_8c71cf90.jpg>)](<../OneDrive/Desktop/PROJECT_IMAGES/WhatsApp Image 2024-03-17 at 00.42.43_240b9194.jpg>)" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="![!\[alt text\](<WhatsApp Image 2024-03-17 at 00.43.34_27dcde13.jpg>)](<../OneDrive/Desktop/PROJECT_IMAGES/WhatsApp Image 2024-03-17 at 00.43.34_8fc2dbd4.jpg>)" alt="Image 3" style="width: 30%; margin: 5px;">
+    <img src="./Images/Homepage.jpg" alt="Homepage" style="width: 30%; margin: 5px;">
+    <img src="./Images/Menu.jpg" alt="Menu" style="width: 30%; margin: 5px;">
+    <img src="./Images/Reservation.jpg" alt="Reservation" style="width: 30%; margin: 5px;">
 </div>
+
 
 ## Problem statement 
 "In response to the struggle faced by local restaurants lacking in business innovation, our HTML, CSS, and JavaScript-powered application bridges the gap. We aim to connect these eateries with a wider audience, enabling them to compete with established rivals by showcasing their quality cuisine at competitive prices, fostering growth."
